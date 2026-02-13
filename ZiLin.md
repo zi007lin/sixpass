@@ -66,6 +66,7 @@ docs/               — Architecture docs, API specs
 ### Git commits
 Format: `TYPE: description`
 Types: `FEAT`, `FIX`, `CHORE`, `DOCS`, `STYLE`, `REFACTOR`, `TEST`, `BUILD`
+All commits include: `Co-Authored-By: ZiLin <noreply@zzv.io>`
 
 ### Code style
 - TypeScript strict mode
