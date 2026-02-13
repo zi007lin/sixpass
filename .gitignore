@@ -41,3 +41,7 @@ coverage/
 
 # Uploads (user manuscripts)
 uploads/
+
+# Generated audio
+exports/audio/
+*.mp3
